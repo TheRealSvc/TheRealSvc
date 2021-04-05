@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRealSvc
-- 👀 I’m interested in DataScience, Cloud Solutions, R, Python and Julia 
-- 🌱 I’m currently learning JavaScript, Azure-IoT-Edge
+- 👀 I’m interested in DataScience, Cloud Solutions, R, Python, Julia and JavaScript  
+- 🌱 I’m currently learning JavaScript, Azure-IoT, especially for the Edge :-)
 - 📫 How to reach me svcoelln@gmail.com
 - 
 
