@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @TheRealSvc
 - 👀 I’m interested in DataScience, Cloud Solutions, R, Python, Julia and JavaScript  
-- 🌱 I’m currently learning JavaScript, Azure-IoT, especially for the Edge :-)
+- 🌱 I’m currently into Azure-IoT, especially for the Edge :-)
 - 📫 How to reach me svcoelln@gmail.com
+- My product page: www.svcsolutions.de
 
 <!---
 TheRealSvc/TheRealSvc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
